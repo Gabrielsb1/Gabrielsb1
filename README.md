@@ -7,11 +7,11 @@
 <div align="center">
   <a href="https://github.com/GabrielSantos25">
   <img height="180em" widht="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielSantos25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantos25&layout=compact&langs_count=7&theme=dark"/>
+  <img height="166em" widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantos25&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  <div style="display: inline_block"><br>
-   Experiência:
+   <p align="center" p>
   <img align="center" alt="Gabriek-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
