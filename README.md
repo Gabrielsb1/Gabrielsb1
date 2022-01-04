@@ -1,5 +1,8 @@
-### Oiii! Eu sou o Gabriel Santos 👨‍💻 
+### Olá!! Eu sou o Gabriel Santos 👨‍💻 
 
+✅ 🔭 Estudante de engenharia de software [PERÍODOS: 3/9]
+  
+✅ 🌱 Estudando HTML5, CSS3 e PYTHON
 
 <div align="center">
   <a href="https://github.com/GabrielSantos25">
@@ -24,7 +27,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-✅ 🔭 Estudante de engenharia de software [PERÍODOS: 3/9]
-  
-✅ 🌱 Estudando HTML5, CSS3 e PYTHON
