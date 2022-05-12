@@ -1,8 +1,8 @@
-## Olá!! Eu sou o Gabriel Santos 👨‍💻 
+## Olá!! Eu sou o João Gabriel 👨‍💻 
 
 ✅ Estudante de engenharia de software [PERÍODOS: 3/9]
   
-✅ Estudando HTML5, CSS3 e PYTHON
+✅ Estudando HTML5, CSS3, Javascript e Python.
 
 <div align="center">
   <a href="https://github.com/GabrielSantos25">
