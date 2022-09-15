@@ -5,9 +5,9 @@
 ✅ Estudando HTML5, CSS3, Javascript e Python.
 
 <div align="center">
-  <a href="https://github.com/GabrielSantos25">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=GabrielSantos25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantos25&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Gabrielsb1">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Gabrielsb1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsb1&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  <div style="display: inline_block"><br>
