@@ -2,7 +2,7 @@
 
 ✅ Estudante de engenharia de software [PERÍODOS: 3/9]
   
-✅ Estudando HTML5, CSS3, Javascript e Python.
+✅ Estudando Java, Javascript, React Js, React Native e Vuejs.
 
 <div align="center">
   <a href="https://github.com/Gabrielsb1">
