@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o João Gabriel 👨‍💻 
 
-✅ Estudante de engenharia de software [PERÍODOS: 3/9]
+✅ Estudante de engenharia de software [PERÍODOS: 5/10]
   
 ✅ Estudando Java, Spring Boot, React Js, React Native.
 
