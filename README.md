@@ -1,5 +1,9 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Gabrielsb1&color=0000FF"><br> 
+ ![Roxo e Branco Startup Apresentação Empresarial Animada](https://github.com/Gabrielsb1/Gabrielsb1/assets/89359585/2ec5d192-7b2f-4500-8eb2-161dfe493c46)
 
-<img align="center" height="200" width="1000" src="https://github.com/Gabrielsb1/Gabrielsb1/assets/89359585/038807d1-326b-4471-93ed-463bbab5d536">
+</div>
+<br>
+
 
 <h1 align="center">Hi 👋, I'm Gabriel Santos</h1>
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
@@ -44,6 +48,8 @@
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Gabrielsb1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="145em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsb1&layout=compact&langs_count=7&theme=dark"/>
     <img height="145em" width ="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielsb1&layout=compact&langs_count=7&theme=dark" alt="Gabrielsb1" />
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Gabrielsb1&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
+   
   </a>
  
 </div>
