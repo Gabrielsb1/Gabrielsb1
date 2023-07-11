@@ -1,4 +1,4 @@
-![logo](******Banner)
+![logo](https://media.licdn.com/dms/image/D4D16AQHGzIg9GQcybQ/profile-displaybackgroundimage-shrink_350_1400/0/1674165003552?e=1694649600&v=beta&t=8wIiRgmXe8ucmYTFqwDFj_NCE6A8DtdLjPGa96-HnuE)
 <h1 align="center">Hi 👋, I'm Gabriel Santos</h1>
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
 
