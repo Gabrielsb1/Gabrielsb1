@@ -1,4 +1,6 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQHGzIg9GQcybQ/profile-displaybackgroundimage-shrink_350_1400/0/1674165003552?e=1694649600&v=beta&t=8wIiRgmXe8ucmYTFqwDFj_NCE6A8DtdLjPGa96-HnuE)
+
+<img align="center" height="200" width="1000" src="https://github.com/Gabrielsb1/Gabrielsb1/assets/89359585/038807d1-326b-4471-93ed-463bbab5d536">
+
 <h1 align="center">Hi 👋, I'm Gabriel Santos</h1>
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
 
