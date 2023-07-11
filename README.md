@@ -28,11 +28,13 @@
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 
-<div align="center">
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
   <a href="https://github.com/Gabrielsb1">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Gabrielsb1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsb1&layout=compact&langs_count=7&theme=dark"/>
-  
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Gabrielsb1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsb1&layout=compact&langs_count=7&theme=dark"/>
+    <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielsb1&layout=compact&langs_count=7&theme=dark" alt="Gabrielsb1" />
+  </a>
 </div>
+
  
  
