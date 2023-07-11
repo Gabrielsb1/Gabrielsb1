@@ -1,10 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Gabrielsb1&color=0000FF"><br> 
  ![Roxo e Branco Startup Apresentação Empresarial Animada](https://github.com/Gabrielsb1/Gabrielsb1/assets/89359585/2ec5d192-7b2f-4500-8eb2-161dfe493c46)
 
-</div>
-<br>
-
-
 <h1 align="center">Hi 👋, I'm Gabriel Santos</h1>
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
 
