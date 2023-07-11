@@ -43,8 +43,8 @@
   <a align="center" href="https://github.com/Gabrielsb1">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Gabrielsb1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="145em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsb1&layout=compact&langs_count=7&theme=dark"/>
-    <img height="145em" width ="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielsb1&layout=compact&langs_count=7&theme=dark" alt="Gabrielsb1" />
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Gabrielsb1&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
+    <img height="200em" width ="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielsb1&layout=compact&langs_count=7&theme=dark" alt="Gabrielsb1" />
+   
    
   </a>
  
