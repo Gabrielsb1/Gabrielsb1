@@ -29,11 +29,12 @@
 
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <a href="https://github.com/Gabrielsb1">
+  <a align="center" href="https://github.com/Gabrielsb1">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Gabrielsb1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsb1&layout=compact&langs_count=7&theme=dark"/>
-    <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielsb1&layout=compact&langs_count=7&theme=dark" alt="Gabrielsb1" />
+    <img height="145em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsb1&layout=compact&langs_count=7&theme=dark"/>
+    <img height="145em" width ="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielsb1&layout=compact&langs_count=7&theme=dark" alt="Gabrielsb1" />
   </a>
+ 
 </div>
 
  
