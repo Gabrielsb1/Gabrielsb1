@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [maintenance)
 
-- ⚡ Fun fact:
+- ⚡ Fun fact: i am iron man
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
