@@ -35,9 +35,7 @@
  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Gabriel-MySql"
 </div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p>
-<br><br><br>
+<br><br>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;" align="center">
   <a align="center" href="https://github.com/Gabrielsb1">
